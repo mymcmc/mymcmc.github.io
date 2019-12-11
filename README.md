@@ -24,4 +24,4 @@
 
     - [网页]()
 
-- ![玫瑰] (http://file02.16sucai.com/d/file/2014/0704/e53c868ee9e8e7b28c424b56afe2066d.jpg)
+- ![玫瑰](http://file02.16sucai.com/d/file/2014/0704/e53c868ee9e8e7b28c424b56afe2066d.jpg)
